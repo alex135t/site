@@ -1,0 +1,28 @@
+@font-face {
+    font-family: '04b03'; /*a name to be used later*/
+    src: url('./04b03.ttf'); /*URL to font*/
+}
+
+
+
+
+html {
+    background-color: black;
+    font-family: '04b03';
+    -webkit-font-smoothing : none;
+    color: white;
+    font-size: 25px;
+    color
+}
+
+a {
+    color: #4080ff;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+#centered {
+    text-align: center;
+}
