@@ -23,6 +23,32 @@ h1 {
     font-size: 25px;
 }
 
-#centered {
+.color127 {
+    color: rgb(127, 127, 127)
+}
+
+
+.centered {
     text-align: center;
 }
+
+.centered500 {
+    width: 500;
+    
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.padded {
+    padding: 8px;
+}
+
+.post {
+    padding: 8px;
+    width: 500;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
